@@ -1,0 +1,22 @@
+
+body{
+  background-color: #efeeee;
+}
+.custom-card {
+  border-radius: 500px;
+
+    padding: 10px;
+}
+section{
+  height: 100vh;
+  background-image: url('https://cdn.pixabay.com/photo/2013/07/12/12/54/world-map-146505_960_720.png'); 
+  background-color: #efeeee;
+  /* height: 100%; */
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  
+}
