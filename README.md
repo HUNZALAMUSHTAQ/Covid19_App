@@ -10,11 +10,9 @@ GET data from custom Django API by AJAX on client side and creating Graph with h
 <u>Challenging Phase</u>: <br>
 Writing Logic for creating API and <b>Data Cleaning of API data for Graphs using pandas</b> <hr>
 <br>
-![Screenshot](project pics/countryPage.png)
+![Screenshot](https://github.com/HUNZALAMUSHTAQ/Covid19_App/blob/main/project%20pics/countryPage.png)
 <hr>
-<br>
-![homepage](project pics/countryPage.png)
-<hr>
+
 FrameWork Used :<br>
 <ul>
   <li>Django</li>
